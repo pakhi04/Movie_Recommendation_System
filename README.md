@@ -1,7 +1,3 @@
-Here’s a **README.md** file based on your **Movie Recommendation System** Jupyter Notebook. If you want specific details from your notebook included, let me know!  
-
----
-
 ### **📽️ Movie Recommendation System**  
 
 This project is a **content-based movie recommendation system** that suggests movies based on user preferences and movie similarities. It uses machine learning techniques and **Natural Language Processing (NLP)** to analyze movie metadata.  
