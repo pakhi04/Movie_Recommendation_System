@@ -69,15 +69,9 @@ Open **Movie_Recommendation_System.ipynb** and run the cells.
 ---
 
 ## **🛠️ Future Improvements**  
-- 🔹 Hybrid approach with **collaborative filtering**  
-- 🔹 Deploy as a **web app** using **Streamlit**  
+- 🔹 Hybrid approach with **collaborative filtering**    
 - 🔹 Improve recommendations using **deep learning**  
 
 ---
 
-## **📜 License**  
-This project is open-source under the **MIT License**.  
 
----
-
-Would you like me to include more details from your notebook? 🚀
